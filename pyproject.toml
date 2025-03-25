@@ -15,7 +15,7 @@ dev = [
 ]
 
 [tool.mypy]
-# files = ["/"]
+files = ["."]
 disallow_untyped_defs = true
 disallow_any_unimported = true
 no_implicit_optional = true
